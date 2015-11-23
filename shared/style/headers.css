@@ -178,7 +178,8 @@ section[role="region"] > header:first-child .icon-back {
 }
 
 #settings-forwd span {
-  background-image: url(headers/images/icons/forwd.png);
+  background-image: url(headers/images/icons/back.png);
+  transform: rotate(180deg);
   display: block;
   width: 2rem;
   height: 3rem;
