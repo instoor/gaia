@@ -333,7 +333,7 @@ ul li > span.retrive{
   margin-top: -2rem;
   padding-top: 0.5rem;
   padding-bottom: 1.3rem;
-  -moz-padding-start: 0.2rem;
+  -moz-padding-start: 1.6rem;
   -moz-padding-end: 4rem;
   white-space: normal;
 }
@@ -1392,8 +1392,8 @@ input[type="text"].input-area-text-padding,
 input[type="tel"].input-area-text-padding{
   padding: 0 3rem 0 0;
 }
+
 #update-device-name-input {
-  border: 0.8rem solid #33D6FF;
   box-shadow: 0 0 0 0.1rem #707070 inset;
   transition: box-shadow 0.3s ease 0s, border 0.3s ease 0s;
   border: 0.8rem solid #33d6ff;
@@ -1409,7 +1409,6 @@ input[type="tel"].input-area-text-padding{
   border: 0.8rem solid #33D6FF;
   box-shadow: 0 0 0 0.1rem #707070 inset;
   transition: box-shadow 0.3s ease 0s, border 0.3s ease 0s;
-  border: 0.8rem solid #33d6ff;
   padding-left: 0;
   float: left;
   padding-right: 2.6rem;
